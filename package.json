@@ -1,0 +1,19 @@
+{
+  "name": "nodeFVR",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "jschardet": "^1.6.0",
+    "noble": "^1.9.1",
+    "noble-device": "^1.4.1",
+    "serialport": "^6.2.0"
+  }
+}
